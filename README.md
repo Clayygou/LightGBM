@@ -24,3 +24,9 @@ Some study about LightGBM
 - 加载模型并继续训练
 - callbacks更改训练过程中的参数
 - 自定义目标函数和验证函数
+
+4. plot_example 包括
+
+- 设置验证集显示次数
+- 画出训练、验证评价曲线（判断过拟合）
+- 重要性和树形图
