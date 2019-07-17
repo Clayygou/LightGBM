@@ -30,3 +30,7 @@ Some study about LightGBM
 - 设置验证集显示次数
 - 画出训练、验证评价曲线（判断过拟合）
 - 重要性和树形图
+
+5. interactive_plot_example 包括
+- plot_example 的动态可调节参数版本
+- 为什么lgb没有plot_split_value_histogram呢？
