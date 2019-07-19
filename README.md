@@ -3,6 +3,7 @@ Some study about LightGBM
 
 
 ## 参考  https://github.com/microsoft/LightGBM/tree/master/examples/regression
+## LightGBM中文文档  ： https://lightgbm.apachecn.org/#/
 1. simple_example 包括
 
 - 创建数据集
