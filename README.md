@@ -35,3 +35,6 @@ Some study about LightGBM
 5. interactive_plot_example 包括
 - plot_example 的动态可调节参数版本
 - 为什么lgb没有plot_split_value_histogram呢？
+
+6. LightGBM+GridSearchCV 包括
+- 使用GridSearchCV 调参过程
